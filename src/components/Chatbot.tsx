@@ -51,7 +51,7 @@ const Chatbot: React.FC = () => {
     
     // Contact
     'contact': "Email: narasimannarasiman227@gmail.com, Phone: +91 6374031780, Location: Sivakasi, Tamil Nadu",
-    'linkedin': "https://www.linkedin.com/in/lakshmi-narasimman-pandurangan-017731268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNvpYCn0RRiWnrcG8dFtHAw%3D%3D",
+    'linkedin': "https://www.linkedin.com/in/lakshmi-narasimman-pandurangan-017731268",
     'orcid': "https://orcid.org/0009-0009-4126-2836",
     'scopus': "https://www.scopus.com/authid/detail.uri?authorId=59935000900",
     

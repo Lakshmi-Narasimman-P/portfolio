@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
           <p className="subtitle">Passionate about AI, Data Visualization, and Building Intelligent Solutions</p>
           
           <div className="professional-profiles">
-            <a href="https://www.linkedin.com/in/lakshmi-narasimman-pandurangan-017731268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNvpYCn0RRiWnrcG8dFtHAw%3D%3D" target="_blank" rel="noopener noreferrer" className="profile-badge">
+            <a href="https://www.linkedin.com/in/lakshmi-narasimman-pandurangan-017731268" target="_blank" rel="noopener noreferrer" className="profile-badge">
               <i className="fab fa-linkedin"></i> LinkedIn
             </a>
             <a href="https://orcid.org/0009-0009-4126-2836" target="_blank" rel="noopener noreferrer" className="profile-badge">
