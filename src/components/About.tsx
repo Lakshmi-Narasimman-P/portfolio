@@ -23,7 +23,7 @@ const About: React.FC = () => {
               <h4>B.Tech in Computer Science and Engineering</h4>
               <p className="institution">Kalasalingam Academy of Research and Education</p>
               <p className="details">Srivilliputhur | Sep 2022 – May 2026</p>
-              <p className="cgpa"><strong>CGPA: 8.09/10.0</strong></p>
+              <p className="cgpa"><strong>CGPA: 8.21/10.0</strong></p>
             </div>
           </div>
         </div>
